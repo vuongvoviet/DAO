@@ -1,0 +1,108 @@
+DAO là cái gì ?
+
+Mùa xuân của DAO ( giống mùa xuân của đất trời, tuổi xuân của đời người)
+
+Kể từ khi The DAO sụp đổ năm 2016(dẫn tới việc cộng đồng Etherium bị chia thành 2), các tổ chức tự trị phi tập trung DAO đã đi lạc khỏi ánh đèn sân khấu(hết hát trên sân khấu phi tập trung). Tuy nhiên, sự phát triển và thử  nghiệm trong lĩnh vực này không bao giờ dừng lại. Năm 2019, sự hỗ trợ cho DAO đã đạt được đà, như được minh họa bởi:
+         Tính khả dụng của ba hệ thống chính để tạo DAO trên mạng chính Etherium : Aragon, DAOstack, Colony
+         
+         Các sáng kiến mới để quản lý các giao thức tiền điện tử với DAO, theo sau của Maker: KyberDAO (Kyber Networks), PolkaDAO (Polkadot), dxDAO (Gnosis)
+
+     Việc tạo ra các khu vực tài phán cho DAO, với tư cách là khu vực tài phán phi tập trung (Kleros, Tòa án Aragon) hoặc là các khu vực dựa trên lãnh thổ truyền thống cung cấp phương tiện hợp pháp cho DAO (Vermont, Malta, Vương quốc Anh, v.v.).
+Nhưng có lẽ tín hiệu mạnh mẽ nhất cho thấy sự ra đời của DAO là bây giờ, đó là thực tế mà chúng ta đang nhìn thấy khi bước vào không chỉ là ở lĩnh vực tiền điện tử. Chẳng hạn, Nexus Mutual có trụ sở tại Vương quốc Anh, là bảo hiểm tương hỗ phi tập trung đầu tiên được hợp nhất như một hợp tác xã và được điều hành bởi DAO. Phải thừa nhận rằng các chính sách họ ban hành hiện chỉ đảm bảo các hợp đồng thông minh, nhưng dự án cũng bảo đảm các loại rủi ro khác  được bảo hiểm bởi các công ty bảo hiểm truyền thống.
+
+Tại Pháp, La Suite du Monde cũng có kế hoạch sử dụng DAO để quản lý quỹ và sáng kiến ​​của mình. Dự án này dường như khác xa với đặc tính đô thị và ảo của lĩnh vực tiền điện tử như người ta có thể thường thấy. Mục đích của nó là cung cấp đất đai cũng như hỗ trợ tài chính và pháp lý cho các cộng đồng xã hội tưởng tượng, các địa phương, cư dân, độc lập, tự tổ chức trong bối cảnh nền văn minh công nghiệp của chúng ta có thể sụp đổ.
+
+Từ Prague(tiệp khắc) đến Curacao, Athens(Hi Lặp) và New York, các DAO mới xuất hiện ở khắp mọi nơi. Tất cả các dự án này đều có chung tinh thần khám phá và thử nghiệm, cùng hy vọng tạo ra các hệ thống công bằng hơn, cùng một nguyên tắc phân cấp là nền tảng của Ethereum và các blockchain công cộng không được phép. Tuy nhiên, mục tiêu và phương thức hoạt động của họ rất đa dạng. Đó là lý do tại sao nó có thể chứng minh hữu ích để làm rõ ý nghĩa thực sự của DAO.
+DAO là cái thứ gì
+
+DAO là viết tắt của tổ chức tự trị phi tập trung phạm vi. Mỗi từ này có thể được diễn giải theo nhiều cách, sinh ra các định nghĩa khác nhau về DAO với sự nhấn mạnh vào khía cạnh này hay khía cạnh khác. Để làm rõ khái niệm này, hãy để phân tích từng thuật ngữ.
+
+“Autonomous”  Tự động
+Tính năng thiết yếu của DAO là các quy tắc hoạt động của chúng được lập trình, nghĩa là chúng được tự động áp dụng và thi hành khi các điều kiện quy định trong phần mềm được đáp ứng. Điều này khác biệt của DAO với các tổ chức truyền thống, có quy tắc hình thành các nguyên tắc mà ai đó phải giải thích và áp dụng.
+
+Ví dụ, hãy tưởng tượng trường hợp của một tổ chức có các thành viên muốn phân bổ vốn cho các dự án khác nhau thông qua một ủy ban của các chuyên gia. Trong trường hợp của một tổ chức truyền thống, một khi các chuyên gia đã đưa ra ý kiến của mình, nhân viên phải thực hiện nhiều bước để giải phóng ngân quỹ, từ soạn thảo biên bản họp đến gửi các yêu cầu  chuyển tiền được phê duyệt bởi từng cấp được quy định trong điều lệ/luật lệ của tổ chức đến ngân hàng.
+
+Trong trường hợp của DAO, tiền sẽ được chuyển ngay lập tức sau khi có sự chấp thuận của ủy ban . Không có gì có thể ngăn chặn nó, cả các bên liên quan nội bộ cũng như các bên thứ ba như ngân hàng hoặc thậm chí là cơ quan công quyền.
+
+Để việc thực thi tự động và an toàn các quy tắc vận hành có hiệu quả, chúng phải được chạy trên một blockchain công khai, không cần xin phép như Ethereum. Có hai lý do chính cho việc này:
+   Phần mềm chạy trên hệ thống các công ty truyền thống không thể trực tiếp xử lý tiền quỹ của tổ chức. Nó chỉ có thể truyền các lệnh chuyển tiền đến các trung gian tài chính trung gian chịu trách nhiệm di chuyển tiền quỹ của tổ chức. Sử dụng blockchain công khai giúp đặt tiền (tiền điện tử) hoặc các tài sản số (tiền điện tử) khác dưới sự kiểm soát trực tiếp và duy nhất của DAO, phần mềm hoạt động như đại diện  của tổ chức và quy tắc hoạt động của nó(DAO).
+   Phần mềm truyền thống dựa trên cơ sở hạ tầng được vận hành bởi bên thứ ba. Nếu các quy tắc của tổ chức truyền thống được lập trình trong một ứng dụng chạy trên điện toán đám mây như AmazonWebService /Google/Azura ...hoặc trên một trong các máy chủ của công ty, thì việc thực thi chúng phụ thuộc vào nhà điều hành điện toán đám mây hoặc bộ phận CNTT, dễ bị mất điện, lỗi và ảnh hưởng từ  bên ngoài.
+Một DAO là tự trị, có nghĩa là các quy tắc của nó là tự động thực thi. Không ai có thể ngăn chặn nó cũng như  thay đổi nó từ bên ngoài.
+
+“Decentralized” Phân tán , không tập trung
+Khía cạnh phi tập trung có thể được hiểu theo hai cách khác nhau làm sáng tỏ các định nghĩa mâu thuẫn của DAO:
+
+   DAO được phân cấp bởi vì nó chạy trên một cơ sở hạ tầng phi tập trung, tức là một blockchain công khai, không được phép mà Nhà nước hoặc một bên khác không thể tiếp quản.
+Định nghĩa này lặp lại khái niệm tự chủ được mô tả ở trên. Yalda Mousavinia, ví dụ, định nghĩa một DAO là một tập đoàn hoạt động trên cơ quan tài phán kỹ thuật số. Không có gì được nói về cách quản lý tập đoàn(như thông thường các tổ chức/công ty/tập đoàn hay vận hành).
+Tương tự, Tim Bansemer tuyên bố rằng một  DAO là một thành phần của các hợp đồng thông minh chạy trên blockchain không cần xin phép  (ví dụ: Ethereum) để tạo thành  cơ sở hạ tầng tổ chức. Một lần nữa, không có gì nói về cách phân phối quyền lực trong tổ chức ( ai làm gì/ có quyền lực tới đâu...).
+
+   DAO được phân cấp bởi vì nó không được tổ chức theo thứ bậc xung quanh các giám đốc điều hành hoặc cổ đông và nó không tập trung quyền lực xung quanh họ(những người có quyền quyết định trong tổ chức).
+
+Ngược lại, Matan Field lập luận rằng DAO nhất thiết phải dựa vào hệ thống quản trị phân tán, nghĩa là việc thực thi quyền lực trong tổ chức là tập thể. Nhóm chuyên gia tư duy COALA mô tả cấu trúc quyền lực của DAO với tư cách là tổ chức không có thứ bậc heterarchical (giống cây trong rừng, chim bay trên bầu trời, như tinh trùng trong ống dẫn trứng..,), nghĩa là, dựa trên các cơ chế hợp tác mà không có sự phụ thuộc.
+
+Theo quan điểm này, sự mới lạ của DAO nằm chính ở khả năng điều phối một số lượng rất lớn người trong khi tránh được sự đáng sợ của các cấu trúc phân cấp(cũ, có ,một số người có quyền ra quyết định cho tổ chức) . Đặc điểm này phân biệt chúng với các tổ chức truyền thống ở cấp độ cơ bản.
+
+Hai quan điểm này đã trở thành những câu chuyện nổi trội xung quanh DAO. Yếu tố đầu có thể được gọi là Cuộc chiến vì Tự do The Fight for Freedom và được mô tả hoàn hảo bởi video quảng cáo cùng tên của Aragon (xem ở https://www.youtube.com/watch?v=AqjIWmiAidw). Video của DAOstack  truyền tải câu chuyện kể thứ hai có thể được gọi là Tương lai của sự hợp tác “The Future of Collaboration” (xem ở https://www.youtube.com/watch?v=25wtmzBG1Yg).
+.
+
+Cuối cùng, hai quan điểm này có thể được coi là bổ sung khi xem xét rằng tính năng thiết yếu của DAO là khả năng thoát khỏi sự chiếm giữ của bên thứ ba, có thể là bên ngoài (tự chủ) hoặc nội bộ (phân cấp).
+
+Tổ chức /Cơ quan
+The DAO đầu tiên tự xưng là DAO, được tạo ra vào năm 2016 để tài trợ cho các dự án đóng góp cho sự phát triển Ethereum. Ý tưởng sử dụng DAO thay vì nền tảng hoặc đầu tư mạo hiểm phù hợp với đặc điểm phân cấp thân yêu đối với cộng đồng Ethereum. Thật vậy, DAO là một quỹ đầu tư mà các nhà đầu tư quyết định trực tiếp, thay vì được giao cho các nhà quản lý chuyên ngành.
+Khái niệm về DAO đã được Dan Larimer giới thiệu trước đó, vào năm 2013, đã đặt ra thuật ngữ này là bộ DAC DAC - Tập đoàn tự trị phi tập trung. Dan Larimer đã so sánh Bitcoin với một công ty có cổ đông sẽ là người nắm giữ bitcoin và nhân viên của họ sẽ là người khai thác.
+Cùng năm đó, Vitalik Buterin đã khái quát hóa ý tưởng bằng cách tưởng tượng làm thế nào một công ty có thể làm mà không cần người quản lý. Tự động hóa kinh doanh thường được xem là quá trình thay thế những người có tay nghề thấp bằng robot hoặc máy tính, giữ cho các nhân viên có trình độ cao hơn trong tầm kiểm soát. Tuy nhiên, Vitalik đề xuất ngược lại, nghĩa là thay thế quản lý bằng một công nghệ phần mềm có khả năng tuyển dụng và trả lương cho mọi người để thực hiện các nhiệm vụ đóng góp cho nhiệm vụ của công ty.
+Công nghệ phần mềm như vậy thậm chí có thể trả tiền cho các nhà cung cấp dịch vụ đám mây để có máy tính hoạt động và do đó trở nên độc lập với bất kỳ cơ sở hạ tầng cụ thể nào. Tất nhiên, điều quan trọng là phải đảm bảo rằng công nghệ này được bảo vệ khỏi sự đánh cắp tài nguyên hoặc phá hủy bởi bên thứ ba, do đó là lý do để khiến nó trở nên tự chủ và phi tập trung.
+
+
+Từ tổ chức đến thực thể sống
+
+Rõ ràng, DAO  chỉ định một cái gì đó rộng hơn định nghĩa điển hình của tổ chức - một nhóm xã hội kết nối mọi người lại với nhau và hướng tới một mục đích chung. Do đó, Vitalik định nghĩa một DAO là một thực thể sống trên internet và tồn tại một cách tự chủ, nhưng cũng phụ thuộc rất nhiều vào việc thuê các cá nhân để thực hiện một số nhiệm vụ mà bản thân máy tự động không thể thực hiện được. nói về một hệ thống kỹ thuật số sống trên Ethereum.
+Về cơ bản, chúng tôi nói về một thực thể thực hiện các chức năng của một tổ chức và có vẻ ngoài hiếm khi được liên kết với thuật ngữ:
+	 A Blockchain Chuỗi khối
+
+Tezos là một blockchain công cộng tích hợp các hoạt động cần thiết cho việc sửa đổi của chính nó trong giao thức của nó, do đó làm cho nó tự thích ứng. Các sửa đổi được đề xuất và bỏ phiếu bởi những người nắm giữ mã thông báo gốc blockchain, theo một quy trình được kiểm soát bởi mã Tezos, và chính nó có thể sửa đổi theo cùng một quy trình.
+
+Dash là một blockchain công cộng có mã phân bổ một phần của khối (ưu đãi tài chính thường được sử dụng để trả thù lao cho việc xác thực giao dịch) cho ngân sách được quản lý bởi các thành viên của mạng nhằm tài trợ cho các phát triển kỹ thuật và hành động quảng cáo hữu ích cho dự án.
+
+
+Hệ sinh thái
+Aragon Network hỗ trợ tạo ra hàng trăm DAO bằng cách cung cấp một nền tảng để chạy chúng, các ứng dụng (quản lý ngân sách, bỏ phiếu, gây quỹ, v.v.) mà chúng có thể được trang bị và quyền tài phán phi tập trung (Tòa án Aragon) để giải quyết xung đột giữa chúng.
+La Suite du Monde là một phong trào cộng sản hỗ trợ việc tạo ra các cộng đồng địa phương, tự tổ chức thông qua việc mua đất nông nghiệp, cung cấp các nguồn lực pháp lý, quản trị, công nghệ và kế toán, và tạo ra một mạng lưới liên kết.
+
+
+Tác phẩm nghệ thuật
+
+
+Dự án Plantoid là một dự án làm  cỗ máy cơ điện mô phỏng sự xuất hiện của một cây . Nó tự bền vững và thậm chí có thể tự sinh sản thông qua hợp tác với con người tương tác với nó như những người bảo trợ và nghệ sĩ.
+
+
+Bảo hiểm tương hổ  ( khác với bảo hiểm vì mục tiêu lợi nhuận)
+
+Nexus Mutual là một hợp tác cung cấp các dịch vụ của bảo hiểm tương hỗ cho các thành viên của mình, mà không cần một công ty để xử lý các nhiệm vụ hành chính. Quản lý cao cấp và xử lý khiếu nại được tự động hóa thông qua các hợp đồng thông minh trực tiếp phối hợp các tương tác với và giữa các chủ chính sách.
+
+Tài nguyên thiên nhiên
+
+Terra0 nhằm mục đích trao quyền cho một khu rừng sản xuất (có bán gỗ-khác với rừng tự nhiên) cho phép họ trả nợ cho những người đòng góp quỹ mua đất ban đầu. Một khi khoản nợ này được thanh lý, rừng có thể sử dụng bản mở rộng nguồn lực của mình bằng cách mua thêm đất.
+
+Phần mềm
+
+Pocket Network là một giao diện chương trình ứng dụng (API) cho phép truy cập vào các chuỗi khối công khai thông qua một mạng phi tập trung. DAO của nó sẽ giúp có thể chuyển giao quyền quyết định liên quan đến sự phát triển của mã và tài trợ cho cộng đồng (nhà phát triển và nhà khai thác nút mạng).
+
+Pando Network là một hệ thống kiểm soát phiên bản (VCS)(giống kiểu Github) sẽ được sử dụng để chuyển đổi từng kho lưu trữ mã nguồn (bao gồm cả kho lưu trữ mã nguồn của Pando) thành DAO thông qua việc cung cấp các dịch vụ để theo dõi đóng góp, quản lý  mã nguồn và quản trị.
+
+Giao thức Protocol
+
+MakerDAO là một giao thức để tạo ra một đồng ổn định giá stablecoin tổng hợp (DAI), có các tham số được kiểm soát bởi những người nắm giữ token quản trị mạng (mã MKR).
+
+dxDAO là một DAO để quản lý DutchX, một giao thức giao dịch phi tập trung trên Ethereum. Như trong MakerDAO, cộng đồng có thể quyết định giao thức DutchX phát triển như thế nào. Ngoài ra, cộng đồng cũng có thể giới thiệu các cơ chế hoàn toàn mới để tạo ra cơ sở hạ tầng giao thức sẽ hỗ trợ tài chính phi tập trung nói chung.
+
+
+Hãy quên một khoảnh khắc về hình ảnh một công ty tư nhân hoặc một cơ quan hành chính công mà từ "tổ chức" gợi lên trong tâm trí bạn. Giống như bất kỳ tổ chức nào, DAO là công cụ để điều phối hoạt động của con người.
+Ngoài sự đa dạng tuyệt đối, chúng còn thể hiện một tính năng tương tự: khả năng tạo điều kiện quản lý tập thể các hàng hóa thông thường, bao gồm các công trình văn hóa và phi vật thể, tài nguyên thiên nhiên, sản xuất kinh tế và công nghiệp và hệ thống xã hội.
+Cảm ơn Kirstin Maulding. Ảnh gốc của Rodion Kutsaev trên Unsplash
+
+( nguồn bản tiếng anh của tác giả Philippe Honigman
+
+ tại https://hackernoon.com/what-is-a-dao-c7e84aa1bd69 )
+
+
